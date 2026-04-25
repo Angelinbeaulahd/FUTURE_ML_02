@@ -1,0 +1,95 @@
+text,category,priority
+"My internet is not working",Technical,High
+"Payment failed but money deducted",Billing,High
+"Need to change my password",Account,Low
+"App is crashing frequently",Technical,High
+"How to upgrade my plan?",General,Medium
+"Refund not received",Billing,High
+"Unable to login",Account,High
+"Feature request for dark mode",General,Low
+"Server is down",Technical,High
+"Billing invoice incorrect",Billing,High
+"Change email address",Account,Low
+"App not opening",Technical,High
+"Want to cancel subscription",General,Medium
+"Payment declined",Billing,High
+"Login error",Account,High
+"Refund delayed",Billing,High
+"Add new feature",General,Low
+"System running slow",Technical,Medium
+"Password reset not working",Account,High
+"Charged twice for same service",Billing,High
+"App freezing issue",Technical,High
+"How to contact support?",General,Low
+"Cannot update profile",Account,Medium
+"Billing address incorrect",Billing,Medium
+"Error 404 on webpage",Technical,Medium
+"Need help with settings",General,Low
+"Account locked",Account,High
+"Refund still pending",Billing,High
+"Application not responding",Technical,High
+"Subscription details needed",General,Low
+"Forgot password",Account,Medium
+"Payment gateway error",Billing,High
+"Slow loading dashboard",Technical,Medium
+"General inquiry about services",General,Low
+"Unable to verify account",Account,High
+"Incorrect billing amount",Billing,High
+"Bug in mobile app",Technical,High
+"Request for callback",General,Low
+"Account hacked",Account,High
+"Billing mismatch",Billing,High
+"Website downtime",Technical,High
+"How to use features?",General,Low
+"Cannot change password",Account,High
+"Refund issue unresolved",Billing,High
+"App crashing after update",Technical,High
+"Need product demo",General,Medium
+"Login session expired quickly",Account,Medium
+"Payment not going through",Billing,High
+"Technical glitch in system",Technical,High
+"Information about pricing",General,Low
+"Account verification failed",Account,High
+"Duplicate billing issue",Billing,High
+"Page not loading",Technical,High
+"How to reset settings?",General,Low
+"Account suspended",Account,High
+"Late refund",Billing,High
+"System error occurred",Technical,High
+"Need support urgently",General,Medium
+"Cannot login to account",Account,High
+"Wrong billing details",Billing,Medium
+"App performance issue",Technical,Medium
+"General feedback",General,Low
+"Reset password link expired",Account,High
+"Billing cycle confusion",Billing,Medium
+"Network connection issue",Technical,High
+"Ask about new updates",General,Low
+"Account access denied",Account,High
+"Refund processed incorrectly",Billing,High
+"Software bug detected",Technical,High
+"Need onboarding help",General,Medium
+"Account details incorrect",Account,Medium
+"Billing not updated",Billing,Medium
+"System lagging",Technical,Medium
+"Product inquiry",General,Low
+"Cannot recover account",Account,High
+"Invoice missing",Billing,Medium
+"Server timeout error",Technical,High
+"General support needed",General,Low
+"Account login failed",Account,High
+"Payment deducted twice",Billing,High
+"App not syncing",Technical,Medium
+"Feedback on service",General,Low
+"Account temporarily blocked",Account,High
+"Refund request pending",Billing,High
+"Unexpected error in app",Technical,High
+"Help with installation",General,Medium
+"Account update failed",Account,Medium
+"Incorrect invoice generated",Billing,High
+"Technical issue in login",Technical,High
+"Need assistance",General,Low
+"Account not found",Account,High
+"Billing support required",Billing,Medium
+"System crash",Technical,High
+"Service inquiry",General,Low
